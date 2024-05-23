@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start":"pnpm start"
+    "start":"node app.js"
   },
   "dependencies": {
     "express": "^4.19.2"
